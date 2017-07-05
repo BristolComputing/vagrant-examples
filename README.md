@@ -5,6 +5,9 @@ compile & run the software on CentOS 6/7.
 
 This repository gives vagrant examples and explains customization options.
 
+## Example overview:
+  - cernvm: examples based on the CernVM image (Scientific Linux 6)
+
 ## Prerequisites
 1. Install [Virtualbox](https://www.virtualbox.org/wiki/Downloads)
 2. Install [Vagrant](https://www.vagrantup.com/downloads.html)
