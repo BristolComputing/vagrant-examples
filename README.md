@@ -10,6 +10,7 @@ This repository gives vagrant examples and explains customization options.
 
 ## Prerequisites
 1. Install [Virtualbox](https://www.virtualbox.org/wiki/Downloads)
+   - Make sure Virtualisation is enabled in the BIOS (`Intel Virtualization Technology (Intel VT)` or `AMD-V`)
 2. Install [Vagrant](https://www.vagrantup.com/downloads.html)
 3. (Recommended on Windows) Install [Git for Windows](https://git-scm.com/downloads)
 
